@@ -51,7 +51,7 @@
             yamlfmt = enable_on_commit;
             convco = {
               enable = true;
-              stages = ["manual" "pre-commit"];
+              stages = ["commit-msg"];
             };
             deadnix.enable = true;
 
