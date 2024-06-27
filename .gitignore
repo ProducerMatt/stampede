@@ -37,3 +37,5 @@ erl_crash.dump
 /eflame
 
 /.pre-commit-config.yaml
+
+/.direnv
